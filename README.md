@@ -1,2 +1,30 @@
-# main-portal-ayx-com
-ayx - https://main-portal-ayx.com
+# main-portal-ayx.com
+
+欢迎访问 **main-portal-ayx.com** 项目仓库。本仓库用于介绍和维护与 **ayx** 相关的门户网站资源。
+
+## 简介
+
+**main-portal-ayx.com** 是一个专注于 **ayx** 领域的综合门户网站。该站点为用户提供 **ayx** 相关的信息聚合、资源导航及基础服务入口。通过访问 https://main-portal-ayx.com ，您可以快速了解 **ayx** 的最新动态与核心功能。
+
+## 特点
+
+- **聚焦 ayx**：网站内容紧密围绕 **ayx** 主题，提供一站式信息获取体验。
+- **简洁导航**：页面结构清晰，方便用户快速定位所需板块。
+- **持续更新**：保持与 **ayx** 领域同步，定期优化内容与服务。
+
+## 访问方式
+
+您可以直接通过以下链接访问网站：
+
+- 主站：https://main-portal-ayx.com
+
+建议使用主流浏览器（如 Chrome、Firefox、Edge）访问，以获得最佳浏览效果。
+
+## 注意事项
+
+- 本仓库仅用于介绍 **main-portal-ayx.com** 及其相关资源，不包含任何恶意或误导性内容。
+- 请遵守 GitHub 社区规范及当地法律法规，合理使用网站信息。
+
+## 贡献
+
+如果您对本项目有任何建议或发现需改进之处，欢迎提交 Issue 或 Pull Request。
